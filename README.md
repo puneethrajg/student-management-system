@@ -39,6 +39,8 @@ The ALTS Student Management System is a web app designed for Anantha Lakshmi Ins
    npm start
 6. Access the Application:
 Open your browser and navigate to *http://localhost:7000*
+
+
 **Usage**
   -Admin Login: Enter your credentials on the login page to access the admin dashboard.
   -Manage Students: Use the dashboard to add, update, delete, or list students.
