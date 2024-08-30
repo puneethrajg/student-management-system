@@ -47,6 +47,8 @@ Open your browser and navigate to *http://localhost:7000*
   -Search and Filter: Use the search bar and filter options to find specific student records.
    
 **Contributing**
+
+
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
 
 **License**
